@@ -1,0 +1,2 @@
+先使用get_ANN_neuron_stability_in_CL.py将ANN pattern的txt文件转化成hdf5文件。
+之后使用draw_pattern读取hdf5文件画图。
